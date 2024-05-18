@@ -12,14 +12,14 @@ as known as Rocket Candy (check Wikipedia for amateur rocket engine: https://en.
 Images of my STL files are down below.
 
 Full Size model:
-[!ROCKETV1-1](RocketV1/imagesV1/rocketFullBodyDesign1.png)
-[!ROCKETV1-2](RocketV1/imagesV1/rocketFullBodyDesign2.png)
+![ROCKETV1-1](RocketV1/imagesV1/rocketFullBodyDesign1.png)
+![ROCKETV1-2](RocketV1/imagesV1/rocketFullBodyDesign2.png)
 
 
 Parts:
 
 Rocket Bottom:
-[!R-BOTTOM](RocketV1/imagesV1/R-BOTTOM.png)
+![R-BOTTOM](RocketV1/imagesV1/R-BOTTOM.png)
 
 Fins:
-[!R-FINS](RocketV1/imagesV1/FinV2.png)
+![R-FINS](RocketV1/imagesV1/FinV2.png)
