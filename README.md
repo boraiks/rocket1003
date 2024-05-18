@@ -5,7 +5,7 @@
 \-2- **MPU6050 (Gyro and Acceleration Sensor)**
 \-3- **4x MG996R Servo Motor (High Torque)**
 
-\-And that's it. Not really actually, we still need fuel to make the rocket go. I'm pretty sure the best option for propellant is a mixture of KNO3 + Sugar
+&nsbp;&nsbp;&nsbp;&nsbp;And that's it. Not really actually, we still need fuel to make the rocket go. I'm pretty sure the best option for propellant is a mixture of KNO3 + Sugar
 as known as Rocket Candy (check Wikipedia for amateur rocket engine: https://en.wikipedia.org/wiki/Rocket_candy).**
 
 
