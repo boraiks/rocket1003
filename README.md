@@ -1,6 +1,6 @@
 # Rocket Project V1
 
-### Firs Off
+### First Off
 This fully functional model rocket project requires these modules:
 * **Arduino Uno R3** (to be honest doesn't matter which version of Arduino do you use, Nano would be great tho):
 * **MPU6050** (Gyro and Acceleration Sensor)
