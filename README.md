@@ -7,7 +7,7 @@ This fully functional model rocket project requires these modules:
 * 4x **MG996R** Servo Motor (High Torque)
 
 **And that's it. Not really actually, we still need fuel to make the rocket go. I'm pretty sure the best option for propellant is a mixture of KNO3 + Sugar
-as known as Rocket Candy (check Wikipedia for amateur rocket engine: https://en.wikipedia.org/wiki/Rocket_candy).**
+as known as Rocket Candy (check Wikipedia for mentioned amateur rocket engine: https://en.wikipedia.org/wiki/Rocket_candy).**
 
 ## **Images of my STL files are down below.**
 
