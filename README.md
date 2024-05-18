@@ -22,4 +22,4 @@ Rocket Bottom:
 [!R-BOTTOM](RocketV1/imagesV1/R-BOTTOM.png)
 
 Fins:
-[!R-FINS](https://github.com/boraiks/rocket/blob/main/RocketV1/imagesV1/FinV2.png)
+[!R-FINS](RocketV1/imagesV1/FinV2.png)
