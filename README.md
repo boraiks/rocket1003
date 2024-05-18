@@ -1,7 +1,7 @@
 This is my rocket project which I haven't yet decided on a name for so...
 
 This fully functional model rocket project requires these modules:
-1- Arduino Uno R3 (to be honest doesn't matter which version of Arduino do you use, Nano would be great tho)
+1. **Arduino Uno R3 (to be honest doesn't matter which version of Arduino do you use, Nano would be great tho):**
 2- MPU6050 (Gyro and Acceleration Sensor)
 3- 4x MG996R Servo Motor (High Torque)
 
