@@ -1,25 +1,29 @@
-\-**This is my rocket project which I haven't yet decided on a name for so...**
+# Rocket Project V1
 
-\-This fully functional model rocket project requires these modules:
-\- 1. **Arduino Uno R3 (to be honest doesn't matter which version of Arduino do you use, Nano would be great tho):**
-\-2- **MPU6050 (Gyro and Acceleration Sensor)**
-\-3- **4x MG996R Servo Motor (High Torque)**
+### Unordered
+This fully functional model rocket project requires these modules:
+* **Arduino Uno R3** (to be honest doesn't matter which version of Arduino do you use, Nano would be great tho):
+* **MPU6050** (Gyro and Acceleration Sensor)
+* 4x **MG996R** Servo Motor (High Torque)
 
-&nsbp;&nsbp;&nsbp;&nsbp;And that's it. Not really actually, we still need fuel to make the rocket go. I'm pretty sure the best option for propellant is a mixture of KNO3 + Sugar
+**And that's it. Not really actually, we still need fuel to make the rocket go. I'm pretty sure the best option for propellant is a mixture of KNO3 + Sugar
 as known as Rocket Candy (check Wikipedia for amateur rocket engine: https://en.wikipedia.org/wiki/Rocket_candy).**
 
+## **Images of my STL files are down below.**
 
-**Images of my STL files are down below.**
+#### COMPLETE BODY
 
-Full Size model:
 ![ROCKETV1-1](RocketV1/imagesV1/rocketFullBodyDesign1.png)
 ![ROCKETV1-2](RocketV1/imagesV1/rocketFullBodyDesign2.png)
 
-
-Parts:
-
-Rocket Bottom:
+#### ROCKET BOTTOM
 ![R-BOTTOM](RocketV1/imagesV1/R-BOTTOM.png)
 
-Fins:
+#### FINS
 ![R-FINS](RocketV1/imagesV1/FinV2.png)
+
+## CAUTION
+
+> Please be careful while doing this project (I don't know why i needed to tell you this but hey im pretty sure that you are aware about this Rocket Candy thing right?... RIGHT!?)
+>
+
