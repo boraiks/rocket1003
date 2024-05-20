@@ -24,6 +24,6 @@ as known as Rocket Candy (check Wikipedia for mentioned amateur rocket engine: h
 
 ## CAUTION
 
-> Please be careful while doing this project (I don't know why i had to tell you this but hey im pretty sure that you are aware about this Rocket Candy thing right?... RIGHT!? -- If not please handle it with extreme care.)
+> Please be careful while doing this project (I don't know why i have to tell you this but hey im pretty sure that you are aware about this Rocket Candy thing right?... RIGHT!? -- If not please handle it with extreme care.)
 >
 
