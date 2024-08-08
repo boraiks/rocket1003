@@ -16,7 +16,7 @@ as known as Rocket Candy (check Wikipedia for mentioned amateur rocket engine: h
 **I'm considering modelling a TVC (Thrust Vector Control) Mount for RocketV2 because 4 high-torque servos are horribly heavy. With a TVC Mount, I can reduce it to 2 servos, just for the X and Y axes. That's why I coded a manual controller, to test and control the servos with my joystick, making it easier to integrate the limits into the model.**
 >I thought it might also be good to have the ability to control it manually in case of emergencies like airbrakes, drag chute for safe landing etc, so I might add more buttons and functions in the future. (Check my TVC design below -not done yet-)
 >
->![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC-prototype4.png)
+>![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC-prototype4imp.png)
 
 ## **Images of my RocketV1 STL files are down below.**
 
