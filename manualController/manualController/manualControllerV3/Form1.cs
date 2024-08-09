@@ -108,7 +108,7 @@ namespace manualControllerV3
                 yValueLabel.Text = yAngle.ToString();
 
                 redBox.Location = new Point(13 + xAngle, 183-yAngle);
-
+                
                 if (port.IsOpen)
                 {
                     port.Write("X");
@@ -126,7 +126,7 @@ namespace manualControllerV3
             if (watch.ElapsedMilliseconds > 15)
             {
                 watch = Stopwatch.StartNew();
-
+                //this project made by boraiks
                 portOpener();
                 controllerCheck();
                 controllerMovement();
