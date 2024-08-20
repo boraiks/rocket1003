@@ -17,7 +17,7 @@ as known as Rocket Candy (check Wikipedia for mentioned amateur rocket engine: h
 >I thought it might also be good to have the ability to control it manually in case of emergencies like airbrakes, drag chute for safe landing etc, so I might add more buttons and functions in the future. (Check my TVC design below -nearly done-)
 UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g servos.
 >
->![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC2-PROTOTYPE1.png)
+>![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC2-PROTOTYPE2.png)
 
 ## **Images of my RocketV1 STL files are down below.**
 
