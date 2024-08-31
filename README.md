@@ -14,7 +14,7 @@ UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g serv
 >
 >![PCB-OUTLINE](flightComputer/img/PCB_OUTLINE3.png)
 
-## **Image of my first iteration of rocket1003 is down below.**
+## **Image of my first iteration of rocket1003.**
 
 ![ROCKETV1-2](RocketV1/imagesV1/rocketFullBodyDesign2.png)
 >I am now working on next iteration with a TVC system.
