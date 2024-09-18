@@ -12,7 +12,7 @@ UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g serv
 **As part of my TVC (Thrust Vector Control) RocketV2 project, I've designed a detailed flight computer schematic. The schematic includes connections for an Arduino Nano, MPU6050, and BMP280 sensors. To create this schematic, I had to make some custom .lbr files for the Eagle program, as they aren't available online.**  
 >If you're interested in these files, you can find them in the `flightComputer` directory of this repository. Also check schematic (basic outline for now) down below.
 >
->flightComputer/img/protoboard.jpg
+>![ROCKETV2-PCB](flightComputer/img/PCB_OUTLINE4.png)
 
 ## **What am i doing right now?**
 >Soldering, assembling, and more. I regularly update this `What am I working on right now?` section, so you can check out the latest progress and final products.
