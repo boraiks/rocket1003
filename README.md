@@ -14,8 +14,8 @@ UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g serv
 >
 >![ROCKETV2-PCB](flightComputer/img/PCB_OUTLINE4.png)
 
-## **What am i doing right now?**
-Soldering, assembling, and more. I regularly update this `What am I working on right now?` section, so you can check out the latest progress and final products.
+## **What am i working on right now?**
+**Soldering, assembling, and more. I regularly update this `What am I working on right now?` section, so you can check out the latest progress and final products.**
 >![ROCKETV2-FLIGHTCOMPUTER](flightComputer/img/protoboard.jpg)
 >This week, I added more modules to the board, including a microSD card adapter to record the maximum altitude. I also added a new buzzer and an RGB LED to ensure the rocket is ready for launch. Additionally, I upgraded from the BMP180 to the BMP280 for improved accuracy. And of course, I threw in a switch—because why not?
 
