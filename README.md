@@ -15,7 +15,7 @@ UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g serv
 >![ROCKETV2-PCB](flightComputer/img/PCB_OUTLINE4.png)
 
 ## **What am i doing right now?**
->Soldering, assembling, and more. I regularly update this `What am I working on right now?` section, so you can check out the latest progress and final products.
+Soldering, assembling, and more. I regularly update this `What am I working on right now?` section, so you can check out the latest progress and final products.
 >![ROCKETV2-FLIGHTCOMPUTER](flightComputer/img/protoboard.jpg)
 
 ## CAUTION
