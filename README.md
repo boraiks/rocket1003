@@ -3,9 +3,9 @@ This project is intended solely for educational and hobby purposes. The creator 
 
 ## **About Manual Controller**
 **I'm considering modelling a TVC (Thrust Vector Control) Mount for RocketV2 because 4 high-torque servos are horribly heavy. With a TVC Mount, I can reduce it to 2 servos, just for the X and Y axes. That's why I coded a manual controller, to test and control the servos with my joystick, making it easier to integrate the limits into the model.**
->I thought it might also be good to have the ability to control it manually in case of emergencies like airbrakes, drag chute for safe landing etc, so I might add more buttons and functions in the future. (Check my TVC design below -nearly done-)
-UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g servos.
+>I thought it might also be good to have the ability to control it manually in case of emergencies like airbrakes, drag chute for safe landing etc, so I might add more buttons and functions in the future.
 >
+>![MANUALCONTROLLER](manualController/img/manualController.gif)
 >![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC2-PROTOTYPE2.png)
 
 ## **About Flight Computer**
