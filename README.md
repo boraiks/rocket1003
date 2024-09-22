@@ -8,8 +8,8 @@ This project is intended solely for educational and hobby purposes. The creator 
 >![MANUALCONTROLLER](manualController/img/manualController.gif)
 
 ## **About TVC Mount**
-**I'm considering modelling a TVC (Thrust Vector Control) Mount for RocketV2 because 4 high-torque servos are horribly heavy. With a TVC Mount, I can reduce it to 2 servos, just for the X and Y axes.**
->UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g servos. Check my TVC design below -nearly done-
+**I'm planning to model a TVC (Thrust Vector Control) Mount for RocketV2 since using 4 high-torque servos for RocketV1 proved to be unnecessarily heavy. By designing a TVC mount for just 2 servos to control the X and Y axes, I can significantly reduce weight. After realizing the high-torque motors were too bulky.**
+>UPDATE: I shifted to a more efficient design with 9g servos. Check out my nearly completed TVC design below.
 >
 >![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC2-PROTOTYPE2.png)
 ## **About Flight Computer**
