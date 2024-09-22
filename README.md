@@ -10,8 +10,8 @@ This project is intended solely for educational and hobby purposes. The creator 
 ## **About TVC Mount**
 **I'm considering modelling a TVC (Thrust Vector Control) Mount for RocketV2 because 4 high-torque servos are horribly heavy. With a TVC Mount, I can reduce it to 2 servos, just for the X and Y axes.**
 >UPDATE: Since high torque motors are heavy, i designed the TVC mount for 9g servos. Check my TVC design below -nearly done-
->![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC2-PROTOTYPE2.png)
 >
+>![ROCKETV2-TVC](RocketV2/TVCprototypes/img/TVC2-PROTOTYPE2.png)
 ## **About Flight Computer**
 **As part of my TVC (Thrust Vector Control) RocketV2 project, I've designed a detailed flight computer schematic. The schematic includes connections for an Arduino Nano, MPU6050, and BMP280 sensors. To create this schematic, I had to make some custom .lbr files for the Eagle program, as they aren't available online.**  
 >If you're interested in these files, you can find them in the `flightComputer` directory of this repository. Also check schematic (basic outline for now) down below.
