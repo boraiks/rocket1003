@@ -3,9 +3,17 @@ This project is intended solely for educational and hobby purposes. The creator 
 
 ## **Table of Contents**
 -[About TVC Mount](#about-tvc-mount)
+
+
 -[About Manual Controller](#about-manual-controller)
+
+
 -[About Flight Computer](#about-flight-computer)
+
+
 -[What am i working on right now?](#what-am-i-working-on-right-now)
+
+
 -[Tests](#test)
 
 ## **About TVC Mount**
