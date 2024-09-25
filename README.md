@@ -1,5 +1,12 @@
 # Disclaimer
-This project is intended solely for educational and hobby purposes. The creator of this project is a student with a strong interest in space vehicles and rocket technology. The goal is to learn and share knowledge about model rocketry in a safe and responsible manner.
+This project is intended solely for educational and hobby purposes. The creator of this project is a student with a strong interest in space vehicles and rocket technology. The goal is to learn and share knowledge about model rocketry in a safe and responsible manner. That being said, enjoy the repository.
+
+## **Table of Contents**
+[About TVC Mount](#about-tvc-mount)
+[About Manual Controller](#about-manual-controller)
+[About Flight Computer](#about-flight-computer)
+[What am i working on right now?](#what-am-i-working-on-right-now?)
+[Tests](#test)
 
 ## **About TVC Mount**
 **I'm planning to model a TVC (Thrust Vector Control) Mount for RocketV2 since using 4 high-torque servos for RocketV1 proved to be unnecessarily heavy. By designing a TVC mount for just 2 servos to control the X and Y axes, I can significantly reduce weight. After realizing the high-torque motors were too bulky.**
@@ -26,7 +33,7 @@ This project is intended solely for educational and hobby purposes. The creator 
 >
 >UPDATE: I implemented a level shifter to enable communication between the BMP280 and MPU6050 modules and the Arduino Nano, as both sensors operate at 3.3V while the Arduino operates at 5V. I used the SDA and SCL pins on the Arduino for the MPU6050; however, I ran out of pins for the BMP280. As a result, I opted for software I2C to connect the BMP280.
 
-## **TESTS**
+## **TEST**
 Gyro Test:
 >![FLIGHTCOMPUTERGYROTEST1](flightComputer/img/FlightComputerGyroTest.gif)
 >
