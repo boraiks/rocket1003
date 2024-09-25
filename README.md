@@ -25,6 +25,10 @@ This project is intended solely for educational and hobby purposes. The creator 
 >This week, I added more modules to the board, including a microSD card adapter to record the maximum altitude. I also added a new buzzer and an RGB LED to ensure the rocket is ready for launch. Additionally, I upgraded from the BMP180 to the BMP280 for improved accuracy. And of course, I threw in a switch—because why not?
 >
 >UPDATE: I implemented a level shifter to enable communication between the BMP280 and MPU6050 modules and the Arduino Nano, as both sensors operate at 3.3V while the Arduino operates at 5V. I used the SDA and SCL pins on the Arduino for the MPU6050; however, I ran out of pins for the BMP280. As a result, I opted for software I2C to connect the BMP280.
+
+## **TESTS**
+Gyro Test:
+>![FLIGHTCOMPUTERGYROTEST1](flightComputer/img/FlightComputerGyroTest.gif)
 >
 ## NOTICE
 As of September 25, 2024 I've stopped the project, feel free to follow up and ask questions but I will most likely not update anymore about TVC—at least for a while. It's been a great journey and thank you to everyone who supported me for the past year.
