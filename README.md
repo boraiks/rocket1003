@@ -41,7 +41,7 @@ This project is intended solely for educational and hobby purposes. The creator 
 >
 >UPDATE: I implemented a level shifter to enable communication between the BMP280 and MPU6050 modules and the Arduino Nano, as both sensors operate at 3.3V while the Arduino operates at 5V. I used the SDA and SCL pins on the Arduino for the MPU6050; however, I ran out of pins for the BMP280. As a result, I opted for software I2C to connect the BMP280.
 
-## **TEST**
+## **Tests**
 Gyro Test:
 >![FLIGHTCOMPUTERGYROTEST1](flightComputer/img/FlightComputerGyroTest.gif)
 >
