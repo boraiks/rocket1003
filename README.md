@@ -2,11 +2,11 @@
 This project is intended solely for educational and hobby purposes. The creator of this project is a student with a strong interest in space vehicles and rocket technology. The goal is to learn and share knowledge about model rocketry in a safe and responsible manner. That being said, enjoy the repository.
 
 ## **Table of Contents**
-[About TVC Mount](#about-tvc-mount)
-[About Manual Controller](#about-manual-controller)
-[About Flight Computer](#about-flight-computer)
-[What am i working on right now?](#what-am-i-working-on-right-now?)
-[Tests](#test)
+-[About TVC Mount](#about-tvc-mount)
+-[About Manual Controller](#about-manual-controller)
+-[About Flight Computer](#about-flight-computer)
+-[What am i working on right now?](#what-am-i-working-on-right-now)
+-[Tests](#test)
 
 ## **About TVC Mount**
 **I'm planning to model a TVC (Thrust Vector Control) Mount for RocketV2 since using 4 high-torque servos for RocketV1 proved to be unnecessarily heavy. By designing a TVC mount for just 2 servos to control the X and Y axes, I can significantly reduce weight. After realizing the high-torque motors were too bulky.**
