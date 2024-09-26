@@ -14,7 +14,7 @@ This project is intended solely for educational and hobby purposes. The creator 
 -[What am i working on right now?](#what-am-i-working-on-right-now)
 
 
--[Tests](#test)
+-[Tests](#tests)
 
 ## **About TVC Mount**
 **I'm planning to model a TVC (Thrust Vector Control) Mount for RocketV2 since using 4 high-torque servos for RocketV1 proved to be unnecessarily heavy. By designing a TVC mount for just 2 servos to control the X and Y axes, I can significantly reduce weight. After realizing the high-torque motors were too bulky.**
